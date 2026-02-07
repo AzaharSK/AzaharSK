@@ -55,7 +55,7 @@
   <img src="https://i.ytimg.com/vi/sKyvsdEv6rk/maxresdefault.jpg" width="80" alt="FAISS Logo"/>
 
   <!-- Chroma logo (official from Chroma site) -->
-  <img src="https://trychroma.com/_next/image?url=%2Fnext-static%2Fmedia%2Fchroma-logo.42e4347b.png&w=256&q=75" width="40" alt="Chroma Logo"/>
+  <img src="https://github.com/chroma-core/chroma/blob/main/docs/docs.trychroma.com/public/chroma-wordmark-color.png#gh-light-mode-only" width="80" alt="Chroma Logo"/>
 
 </p>
 
