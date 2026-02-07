@@ -28,24 +28,35 @@
   <img src="https://cdn.simpleicons.org/arm/0070BB" width="40" alt="ARM"/>
 </p>
 
-- **C / C++**
-- **Linux & Open Source**
-- **Yocto**
-- **GNU Toolchain**
-- **CMake**
-- **ARM Architecture**
-- **VS Code**
-
 ---
 
 ### 🐍 Backend, APIs & AI
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLaMA-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-2E8B57?style=for-the-badge"/>
+
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python Logo"/>
+
+  <!-- FastAPI -->
+  <img src="https://cdn.simpleicons.org/fastapi/009688" width="40" alt="FastAPI Logo"/>
+
+  <!-- PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL Logo"/>
+
+  <!-- OpenAI -->
+  <img src="https://cdn.simpleicons.org/openai/412991" width="40" alt="OpenAI Logo"/>
+
+  <!-- Ollama (official SVG) -->
+  <img src="https://www.homedock.cloud/_astro/ollama-logo-on-black-sand.C8U_3a1n_1N2Jl8.webp" width="120" alt="Ollama Logo"/>
+
+  <!-- LLaMA (community hosted icon) -->
+  <img src="https://i.pcmag.com/imagery/articles/066WDqSok8KgtBEbvcnY1eI-1.fit_lim.v1689701027.jpg" width="100" alt="LLaMA Logo"/>
+
+  <!-- LangChain (official brand icon) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/LangChain_Logo.svg" width="120" alt="LangChain Logo"/>
+
 </p>
+
 
 - **Python 3**
 - **FastAPI**
