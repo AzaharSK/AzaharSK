@@ -49,7 +49,7 @@
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pinecone-icon.svg" width="40" alt="Pinecone Logo"/>
 
   <!-- Qdrant logo (GitHub hosted SVG from official repo) -->
-  <img src="https://raw.githubusercontent.com/qdrant/qdrant/main/assets/qdrant-logo.svg" width="40" alt="Qdrant Logo"/>
+  <img src="https://github.com/qdrant/qdrant/raw/master/docs/logo-light.svg" width="40" alt="Qdrant Logo"/>
 
   <!-- FAISS logo (official from FAISS website) -->
   <img src="https://faiss.ai/_static/img/faiss_logo.png" width="40" alt="FAISS Logo"/>
