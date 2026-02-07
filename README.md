@@ -10,9 +10,23 @@
 
 ### ⚙️ Systems & Embedded
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,linux,yocto,gnu,cmake,vscode,arm" />
+  <!-- C -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+  <!-- Yocto (via Simple Icons) -->
+  <img src="https://cdn.simpleicons.org/yoctoproject/000000" width="40" alt="Yocto"/>
+  <!-- GNU (via Simple Icons) -->
+  <img src="https://cdn.simpleicons.org/gnu/000000" width="40" alt="GNU"/>
+  <!-- CMake -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="40" alt="CMake"/>
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
+  <!-- ARM Cortex (via Simple Icons) -->
+  <img src="https://cdn.simpleicons.org/arm/0070BB" width="40" alt="ARM"/>
 </p>
-
 - **C / C++**
 - **Linux & Open Source**
 - **Yocto**
