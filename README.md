@@ -49,10 +49,10 @@
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pinecone-icon.svg" width="40" alt="Pinecone Logo"/>
 
   <!-- Qdrant logo (GitHub hosted SVG from official repo) -->
-  <img src="https://github.com/qdrant/qdrant/raw/master/docs/logo-light.svg" width="40" alt="Qdrant Logo"/>
+  <img src="https://github.com/qdrant/qdrant/raw/master/docs/logo-light.svg" width="80" alt="Qdrant Logo"/>
 
   <!-- FAISS logo (official from FAISS website) -->
-  <img src="https://faiss.ai/_static/img/faiss_logo.png" width="40" alt="FAISS Logo"/>
+  <img src="https://i.ytimg.com/vi/sKyvsdEv6rk/maxresdefault.jpg" width="80" alt="FAISS Logo"/>
 
   <!-- Chroma logo (official from Chroma site) -->
   <img src="https://trychroma.com/_next/image?url=%2Fnext-static%2Fmedia%2Fchroma-logo.42e4347b.png&w=256&q=75" width="40" alt="Chroma Logo"/>
