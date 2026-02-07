@@ -10,7 +10,7 @@
 
 ### ⚙️ Systems & Embedded
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,linux,gnu,cmake,vscode,arm" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,linux,yocto,gnu,cmake,vscode,arm" />
 </p>
 
 - **C / C++**
