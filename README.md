@@ -17,7 +17,7 @@
   <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
   <!-- Yocto (via Simple Icons) -->
-  <img src="https://cdn.simpleicons.org/yoctoproject/000000" width="40" alt="Yocto"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Yocto_Project_logo.svg" width="40" alt="Yocto Project Logo"/>
   <!-- GNU (via Simple Icons) -->
   <img src="https://cdn.simpleicons.org/gnu/000000" width="40" alt="GNU"/>
   <!-- CMake -->
@@ -27,6 +27,7 @@
   <!-- ARM Cortex (via Simple Icons) -->
   <img src="https://cdn.simpleicons.org/arm/0070BB" width="40" alt="ARM"/>
 </p>
+
 - **C / C++**
 - **Linux & Open Source**
 - **Yocto**
