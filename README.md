@@ -19,7 +19,7 @@
   <img src="https://cdn.simpleicons.org/fastapi/009688" width="40" alt="FastAPI Logo"/>
 
    <!-- REST API -->
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*J3G3akaMpUOLegw0p0qthA.png" width="80" alt="FastAPI Logo"/>
+  <img src="https://i.ytimg.com/vi/OcN9D0dWQI4/maxresdefault.jpg" width="70" alt="FastAPI Logo"/>
 
   <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL Logo"/>
