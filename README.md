@@ -34,7 +34,7 @@
   <img src="https://i.pcmag.com/imagery/articles/066WDqSok8KgtBEbvcnY1eI-1.fit_lim.v1689701027.jpg" width="70" alt="LLaMA Logo"/>
 
   <!-- LangChain (official brand icon) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/LangChain_Logo.svg" width="120" alt="LangChain Logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/LangChain_Logo.svg" width="150" alt="LangChain Logo"/>
 
 </p>
 
