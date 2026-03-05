@@ -1,6 +1,6 @@
 # 👋 Hi there, I am Sk Azaharuddin
 
- * 🚀 **Sr. Software Engineer | Systems + Cloud + AI**
+ * 🚀 **Sr. Software Engineer | Cpp + Python + Systems + Cloud + AI**
  * 💡 Passionate about **Linux, Cloud-Native, LLM-based and Edge AI systems**
  * 🛠️ Open-source enthusiast
 
