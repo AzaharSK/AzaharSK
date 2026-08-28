@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL Logo"/>
 
   <!-- OpenAI -->
-  <img src="https://cdn.simpleicons.org/openai/412991" width="40" alt="OpenAI Logo"/>
+  <img src="https://thesvg.org/icon/openai?variant=wordmarkDark" width="40" alt="OpenAI Logo"/>
 
   <!-- Ollama (official SVG) -->
   <img src="https://www.homedock.cloud/_astro/ollama-logo-on-black-sand.C8U_3a1n_1N2Jl8.webp" width="120" alt="Ollama Logo"/>
