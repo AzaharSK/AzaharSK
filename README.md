@@ -97,11 +97,11 @@
 
 * **GenAI & LLM:** LLM Fundamentals, Tokenization & Embeddings, Word2Vec, fastText, Bi-LSTM, Autoencoders, Variational Autoencoders (VAE), Transformer Architectures, BERT, GPT, T5, BART, LLaMA, Prompt Engineering
   
-* **RAG & LLM Applications:** Retrieval-Augmented Generation (RAG), Semantic Search, RAG Pipelines, Hybrid Retrieval, Vector Search, ChromaDB, FAISS, Qdrant, Pinecone, Ollama, LangChain, LangGraph, Langfuse, LangSmith, LLM Evaluation, RAG Confidence Scoring, Org's Knowledge Scoring, Utility Score Calculation
+* **RAG & LLM Applications:** Retrieval-Augmented Generation (RAG), Semantic Search, RAG Pipelines, Hybrid Retrieval, Vector Search, ChromaDB, FAISS, Qdrant, Pinecone, Ollama, LangChain, LangGraph, Langfuse, LangSmith, LLM Evaluation,  Intent & Sensitivity Detection, RAG Confidence Scoring, Org's Knowledge Scoring, Utility Score Calculation
   
 * **Agentic AI:** ReAct, Agentic Workflows, Tool Calling, Multi-Agent Systems, Workflow Automation, CrewAI, AutoGen
   
-* **AI Backend & Data:** Python, C++, FastAPI AI Routers, Intent & Sensitivity Detection, REST Microservices, PostgreSQL, Redis, Apache Kafka, Vector Databases
+* **AI Backend & Data:** Python, C++, FastAPI AI Routers, REST Microservices, PostgreSQL, Redis, Apache Kafka, Vector Databases
   
 * **AI Security & Governance:** OAuth2, JWT (JSON Web Tokens), IAM, RBAC, ABAC, Prompt Guard, Compliance Rules, AI Guardrails, Open Policy Agent (OPA) Routing & Policy, SPIFFE, Agentic PKI, X.509, mTLS
   
