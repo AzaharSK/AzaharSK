@@ -96,14 +96,23 @@
 ### Technical Skills — GenAI / AI Platform Engineer
 
 * **GenAI & LLM:** LLM Fundamentals, Tokenization & Embeddings, Word2Vec, fastText, Bi-LSTM, Autoencoders, Variational Autoencoders (VAE), Transformer Architectures, BERT, GPT, T5, BART, LLaMA, Prompt Engineering
+  
 * **RAG & LLM Applications:** Retrieval-Augmented Generation (RAG), Semantic Search, RAG Pipelines, Hybrid Retrieval, Vector Search, ChromaDB, FAISS, Qdrant, Pinecone, Ollama, LangChain, LangGraph, Langfuse, LangSmith, LLM Evaluation, RAG Confidence Scoring
+  
 * **Agentic AI:** ReAct, Agentic Workflows, Tool Calling, Multi-Agent Systems, Workflow Automation, CrewAI, AutoGen
+  
 * **AI Backend & Data:** Python, C++, FastAPI AI Routers, Intent & Sensitivity Detection, Company Knowledge Scoring, Utility Score Calculation, REST Microservices, PostgreSQL, Redis, Apache Kafka, Vector Databases
-* **Cloud & Platform Engineering:** Docker, Kubernetes, Helm, Terraform, CI/CD, AWS, Microsoft Azure
-* **Observability:** OpenTelemetry, Prometheus, Grafana, Loki, Tempo, Promtail, Datadog
+  
 * **AI Security & Governance:** OAuth2, JWT (JSON Web Tokens), IAM, RBAC, ABAC, Prompt Guard, Compliance Rules, AI Guardrails, Open Policy Agent (OPA) Routing & Policy, SPIFFE, Agentic PKI, X.509, mTLS
+  
 * **Token Capital / Cost Center Optimization:** AI Gateway & Provider Routing, Rate Limiting, Retries, Token Estimation & Budgeting, Latency Prediction, Vector Storage Economics, Inference Cost Attribution, FinOps Billing
-* **Software Engineering:** C++17/20, Python, Linux, REST APIs, Distributed Systems, Microservices, API Design
+  
+* **Software Engineering:** C++17/20, Python, Linux, REST APIs, Distributed Systems, Microservices, API Design.
+
+* **Cloud & Platform Engineering:** Docker, Kubernetes, Helm, Terraform, CI/CD, AWS, Microsoft Azure
+
+* **Observability:** OpenTelemetry, Prometheus, Grafana, Loki, Tempo, Promtail, Datadog
+  
 
 
 ## 📫 Connect With Me
