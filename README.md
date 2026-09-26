@@ -105,7 +105,7 @@
   
 * **AI Security & Governance:** OAuth2, JWT (JSON Web Tokens), IAM, RBAC, ABAC, Prompt Guard, Compliance Rules, AI Guardrails, Open Policy Agent (OPA) Routing & Policy, SPIFFE, Agentic PKI, X.509, mTLS
   
-* **Token Capital / Cost Center Optimization:** AI Gateway & Provider Routing, Rate Limiting, Retries, Token Estimation & Budgeting, Latency Prediction, Vector Storage Economics, Inference Cost Attribution, FinOps Billing
+* **Token Capital / Cost Center Optimization:** AI AgentGateway, Intelligent Routing, Rate Limiting, Retries, Token Estimation & Budgeting, Latency Prediction, Vector Storage Economics, Inference Cost Attribution, FinOps Billing
   
 * **Software Engineering:** C++17/20, Python, Linux, REST APIs, Distributed Systems, Microservices, API Design.
 
